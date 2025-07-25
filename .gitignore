@@ -6,6 +6,7 @@ __pycache__/
 # Virtual environment
 venv/
 .env/
+testenv/
 
 # OS files
 .DS_Store
@@ -16,3 +17,9 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+
+# Python cache
+__pycache__
+
+# Local archive data
+__archive__
